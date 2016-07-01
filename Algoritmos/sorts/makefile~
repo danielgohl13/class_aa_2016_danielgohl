@@ -1,0 +1,2 @@
+teste: main.c
+	gcc -o main main.c src/mergeSort.c src/swap.c 
